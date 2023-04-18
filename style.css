@@ -1,6 +1,10 @@
 body{
-    background-image:url(student.png);
+    background-image:url(student.jpeg);
     background-size: cover;
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
 }
 
 *{
@@ -27,7 +31,7 @@ header{
     display: block;
     text-size-adjust: 50%;
     size: 50%;
-    
+    text-align: center;
     text-decoration-style: solid;
     text-decoration-color: #cf6e6e;
 
@@ -36,3 +40,5 @@ header{
     display: flexbox ;
     color: #67a7c2 ;
 }
+
+
